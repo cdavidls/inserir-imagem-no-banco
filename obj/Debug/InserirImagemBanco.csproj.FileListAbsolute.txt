@@ -1,0 +1,9 @@
+E:\DAVID\InserirImagemBanco\bin\Debug\InserirImagemBanco.exe.config
+E:\DAVID\InserirImagemBanco\bin\Debug\InserirImagemBanco.exe
+E:\DAVID\InserirImagemBanco\bin\Debug\InserirImagemBanco.pdb
+E:\DAVID\InserirImagemBanco\obj\Debug\InserirImagemBanco.csprojAssemblyReference.cache
+E:\DAVID\InserirImagemBanco\obj\Debug\InserirImagemBanco.Form1.resources
+E:\DAVID\InserirImagemBanco\obj\Debug\InserirImagemBanco.Properties.Resources.resources
+E:\DAVID\InserirImagemBanco\obj\Debug\InserirImagemBanco.csproj.GenerateResource.cache
+E:\DAVID\InserirImagemBanco\obj\Debug\InserirImagemBanco.exe
+E:\DAVID\InserirImagemBanco\obj\Debug\InserirImagemBanco.pdb
